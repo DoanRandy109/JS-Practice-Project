@@ -127,6 +127,7 @@ body{
     transition-duration: 300ms;
     transition-timing-function: ease-in-out;
     z-index: 2000;
+    display: none;
 }
 
 .main-nav-list a{
@@ -176,6 +177,7 @@ body{
     transition-delay: 560ms;
     transition-duration: 240ms;
     transition-timing-function: cubic-bezier(.1, .2, .3, 1.4);
+    display: none;
 }
 
 .main-nav-list.active a{
