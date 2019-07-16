@@ -131,7 +131,7 @@ body{
 }
 
 .main-nav-list a{
-    display: block;
+    display: none;
     font-size: 2rem;
     letter-spacing: 3px;
     margin-bottom: 15px;
